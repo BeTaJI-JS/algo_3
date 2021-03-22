@@ -1,5 +1,5 @@
 //const NumberArray = require("./lib/NumberArray")
-const NumberArray = require("./lib/NumberArray")
+const NumberArray = require("./lib/NumberArray") 
 const arr =[5,3,2,1,11,77,600,600,543,221,56]
 console.log(NumberArray.min(arr))
 console.log(NumberArray.max(arr))
